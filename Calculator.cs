@@ -11,7 +11,7 @@ class calculator
 	Console.ReadKey;
 	}
 	
-	static int Penambahan(int a. int B)
+	static int Penambahan(int a. int b)
 	{
 		return a+b;
 	}
